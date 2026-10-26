@@ -214,7 +214,8 @@ This project was developed as a capstone project for learning purposes.
 ## Authors & Contributors
 
 **Team ID**: 23KD1A0571
-**Developer**: Bhargav Gulamajji
+
+**Project Lead**: Bhargav
 
 ---
 
